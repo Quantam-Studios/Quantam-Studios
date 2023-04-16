@@ -13,7 +13,10 @@ a high schooler interested in many things related to software engineering. Recen
 - [Code Pen](https://codepen.io/quantam-studios): `quantam-studios`
 
 ### Languages and frameworks...
-[![My Languages/Frameworks](https://skillicons.dev/icons?i=cs,dart,flutter,python,css,tailwind,html,git,js,java,sqlite,bots)](https://skillicons.dev)
+[![My Languages/Frameworks](https://skillicons.dev/icons?i=cs,dart,flutter,python,css,tailwind,html,git,js,bots)](https://skillicons.dev)
 
 ### Tools and software...
-[![My Languages/Frameworks](https://skillicons.dev/icons?i=unity,github,replit,raspberrypi,visualstudio,vscode,ps,ai)](https://skillicons.dev)
+[![My Tools/Software](https://skillicons.dev/icons?i=unity,github,replit,raspberrypi,visualstudio,vscode,ps,ai)](https://skillicons.dev)
+
+### Currently Learning
+[![My Languages/Frameworks](https://skillicons.dev/icons?i=java,sqlite,eclipse)](https://skillicons.dev)
