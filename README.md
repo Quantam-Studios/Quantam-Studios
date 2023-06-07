@@ -1,5 +1,5 @@
 ## 😄 Hello, I'm Zach Goodson...
-a student at Mizzou 🐯 interested in many things related to software engineering. Recent focuses are: Java, XML, XSL, and Dart (with Flutter).
+a student at Mizzou 🐯 who likes to make things. Recent focuses are: Java (with JWT), XML/XSL, C, and database design in .NET with SQL.
 
 ### 👋 You can contact me here...
 - [Email](mailto:quantamstudios@gmail.com): `quantamstudios@gmail.com`
@@ -19,4 +19,4 @@ a student at Mizzou 🐯 interested in many things related to software engineeri
 [![My Tools/Software](https://skillicons.dev/icons?i=unity,github,replit,raspberrypi,powershell,visualstudio,vscode,ps,ai,codepen)](https://skillicons.dev)
 
 ### 🤔 Currently Learning
-[![My Languages/Frameworks](https://skillicons.dev/icons?i=java,sqlite,eclipse,bash)](https://skillicons.dev)
+[![My Languages/Frameworks](https://skillicons.dev/icons?i=java,sqlite,eclipse,bash,c,azure)](https://skillicons.dev)
