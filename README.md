@@ -3,7 +3,7 @@ a student at Mizzou 🐯 who likes to make things. Recent focuses are: Java (wit
 
 ### 👋 You can contact me here...
 - [Email](mailto:quantamstudios@gmail.com): `quantamstudios@gmail.com`
-- Discord: `Ambassador Kosh#0986`
+- Discord: `vorlon.`
 
 ### 📜 Where you can find my work...
 - [quantamstudios.dev](https://quantamstudios.dev/)
@@ -18,5 +18,5 @@ a student at Mizzou 🐯 who likes to make things. Recent focuses are: Java (wit
 ### ⚙️ Tools and software...
 [![My Tools/Software](https://skillicons.dev/icons?i=unity,github,replit,raspberrypi,powershell,visualstudio,vscode,ps,ai,codepen)](https://skillicons.dev)
 
-### 🤔 Currently Learning
+### 🤔 Currently Learning...
 [![My Languages/Frameworks](https://skillicons.dev/icons?i=java,sqlite,eclipse,bash,c,azure)](https://skillicons.dev)
