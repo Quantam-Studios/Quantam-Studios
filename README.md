@@ -1,5 +1,5 @@
 ## 😄 Hello, I'm Zach Goodson...
-a student at Mizzou 🐯 who likes to make things. Recent focuses are: Java (with JWT), XML/XSL, C, and database design in .NET with SQL.
+a student at Mizzou 🐯 who likes to make things. Recent focuses are: C, database design in .NET with SQL / EdgeDB, and REST APIs.
 
 ### 👋 You can contact me here...
 - [Email](mailto:quantamstudios@gmail.com): `quantamstudios@gmail.com`
@@ -51,7 +51,7 @@ a student at Mizzou 🐯 who likes to make things. Recent focuses are: Java (wit
   <summary>Other Stuff</summary>
   
   ### Languages and frameworks
-  `XML`, `XSL`, `EdgeDB`
+  `XML`, `XSL`, `EdgeDB`, Emweb's `JWt`
 
   ### Tools and software...
   `Github pages`
