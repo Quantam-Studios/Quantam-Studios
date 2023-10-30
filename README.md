@@ -1,5 +1,5 @@
 ## 😄 Hello, I'm Zach Goodson...
-a student at Mizzou 🐯 who likes to make things. Recent focuses are: C, database design in .NET with SQL / EdgeDB, and REST APIs.
+a student at Mizzou 🐯 who likes to make things. Recent focuses are: C, database design in .NET with SQL (via EFcore), and REST APIs.
 
 ### 👋 You can contact me here...
 - [Email](mailto:quantamstudios@gmail.com): `quantamstudios@gmail.com`
@@ -26,6 +26,7 @@ a student at Mizzou 🐯 who likes to make things. Recent focuses are: C, databa
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
