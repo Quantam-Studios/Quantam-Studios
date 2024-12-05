@@ -1,5 +1,5 @@
 ## 😄 Hello, I'm Zach Goodson...
-a student at Mizzou 🐯 who likes to make things. Recent focuses are: C, database design in .NET with SQL (via EFcore), and REST APIs.
+a student at Mizzou 🐯 who likes to make things. Recent focuses are: Computational Intelligence and Optimization.
 
 ### 👋 You can contact me here...
 - [Email](mailto:quantamstudios@gmail.com): `quantamstudios@gmail.com`
