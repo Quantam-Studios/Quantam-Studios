@@ -6,7 +6,7 @@ a student at Mizzou 🐯 who likes to make things. Recent focuses are: Computati
 - Discord: `vorlon.`
 
 ### 📜 Where you can find my work...
-- [quantamstudios.dev](https://quantamstudios.dev/)
+- [zachgoodson.dev](https://zachgoodson.dev/)
 - [itch.io](https://quantamstudios.itch.io/): `Quantam Studios`
 - [Replit](https://replit.com/@ZacharyGoodson): `ZacharyGoodson`
 - [Pixel Art](https://www.pixilart.com/quantamstudios): `QuantamStudios`
